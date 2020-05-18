@@ -1,6 +1,7 @@
 # Quarentena_COVID19inMex
-Materiales para la sesion "Visualizacion y analisis espacial de datos de Covid-19 en Mexico para principiantes" del grupo de usuarios QGIS (Mexico), parte de la #QuarentenaAmericaLatina número 17.
 
-El material completo estara disponible el jueves 14 de mayo y la sesion esta programada para el viernes 15 de mayo.
+Materiales para la sesion "Visualizacion y analisis espacial de datos de Covid-19 en Mexico para principiantes" del grupo de usuarios QGIS Mexico, parte de la #QuarentenaAmericaLatina número 17.
 
-Esta sesion se transmitira en vivo por: https://www.youtube.com/channel/UCwd223Om2zRQdsU1ghRz_zQ/featured
+El video esta disponible en: youtube.com/watch?v=1KSTUcSRoxk
+
+Los datos sobre COVID-19 corresponden a la actualizacion del 12 de mayo, la transmision de la sesion en vivo fue el viernes 15 de mayo.
